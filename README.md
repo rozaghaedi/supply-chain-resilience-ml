@@ -37,7 +37,7 @@ The illustrative case applies the framework to **six risks** in the UK electrici
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/supply-chain-resilience-ml.git
+git clone https://github.com/rozaghaedi/supply-chain-resilience-ml.git
 cd supply-chain-resilience-ml
 
 # 2. Install dependencies
@@ -51,7 +51,7 @@ python supply_chain_resilience.py
 
 Click the badge below to open directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/supply-chain-resilience-ml/blob/main/supply_chain_resilience.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rozaghaedi/supply-chain-resilience-ml/blob/main/supply_chain_resilience.py)
 
 ---
 
