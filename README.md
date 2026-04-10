@@ -51,7 +51,7 @@ python supply_chain_resilience.py
 
 Click the badge below to open directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rozaghaedi/supply-chain-resilience-ml/blob/main/supply_chain_resilience.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZLWz8CwRgspBRfJzp_QVPwU7amKAKkIH)
 
 ---
 
@@ -76,6 +76,16 @@ Running the script produces:
 | P(system risk > 500) | 5.10% |
 | Mean system risk (mitigation) | 445.55 |
 | Mean reduction from mitigation | 6.02% |
+
+
+![Supply Chain Resilience Results](supply_chain_resilience.png)
+
+
+
+
+
+
+
 
 ---
 
